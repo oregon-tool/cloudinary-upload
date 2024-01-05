@@ -1,0 +1,13 @@
+{
+    "name": "oregon-tool/cloudinary-upload",
+    "require": {
+        "cloudinary/cloudinary_php": "2",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Francisc Rusznyak",
+            "email": "fr@nc.is"
+        }
+    ]
+}
